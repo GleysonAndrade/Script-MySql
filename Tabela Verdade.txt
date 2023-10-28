@@ -1,6 +1,0 @@
-A   B   A OR B  A AND B -
-V   V    V       V      -
-V   F    V       F      -
-F   V    V       F      -
-F   F    F       F      -
--------------------------
